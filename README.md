@@ -1,1 +1,1 @@
-# ApD
+# Repozytorium dla Aplikacji desktopowych
